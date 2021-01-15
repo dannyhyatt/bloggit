@@ -1,0 +1,12 @@
+name: danny's blog
+description: the best blog in town
+style:
+  font-family-url: https://raw.githubusercontent.com/google/fonts/master/ofl/montserrat/Montserrat-Light.ttf
+  text-color: #ffffff
+  background-color: #000000
+  link-color: #ddddff
+
+files:
+  intro.md:
+    title: Introduction
+    date: 1-15-2021
